@@ -1,0 +1,38 @@
+{
+  "name": "grunt-embed",
+  "description": "embed语法预处理引擎",
+  "version": "0.4.1",
+  "homepage": "https://github.com/gruntjs/grunt-contrib-copy",
+  "author": {
+  },
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.2.0",
+    "grunt-contrib-nodeunit": "~0.1.2",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-internal": "~0.4.2",
+    "grunt": "~0.4.0"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.0"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "contributors": [
+    {
+      "name": "wuhaozheng",
+      "url": "http://www.wuhaozheng.com"
+    }
+  ],
+  "readme": "",
+  "readmeFilename": "README.md",
+  "_id": "grunt-contrib-copy@0.4.1",
+  "_from": "grunt-contrib-copy@"
+}
